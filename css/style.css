@@ -1,0 +1,39 @@
+
+.btn-primary{
+    background-color: #4CAF50;
+}
+
+/*element{
+    margin-right:100px;
+}*/
+/*button{
+    display:inline;
+}*/
+#ss{
+    border-collapse: collapse;
+    width: 100%;
+    border-style: solid groove;
+    
+}
+#ss td, #ss th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    overflow: hidden;
+}#ss th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #555;
+    color: white;
+}
+
+element {
+
+    padding-left: 25px;
+
+}
+*, ::after, ::before {
+
+    box-sizing: border-box;
+
+}
